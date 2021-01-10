@@ -1,7 +1,7 @@
 # aoe2dataset
 
 ## What is this?
-This repo currently holds a dataset of 100 detailed analyzed aoe2 matches.
+This repo currently holds a dataset of 100 analyzed aoe2 matches.
 * New states are recorded approx every 20 in-game seconds.
 * The files are stored as .recinfo but should be seen as json files.
 
@@ -9,7 +9,7 @@ This repo currently holds a dataset of 100 detailed analyzed aoe2 matches.
 ![PlayerData](datasetplayersummary.png?raw=true "Player data distribution")
 
 ## Why?
-To share detailed replay analysis data from aoe2 matches to enable new projects to be created.
+To share replay analysis from aoe2 matches to enable new projects to be created.
 
 ## Goal
 To create enough data that ML/DL applications will output interesting results.
