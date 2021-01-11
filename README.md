@@ -14,8 +14,9 @@ To share replay analysis from aoe2 matches to enable new projects to be created.
 ## Goal
 To create enough data that ML/DL applications will output interesting results.
 
-## Missing data
-For now the analyzed files unfortunately doesn't include tech upgrades.
+## Missing data / Known errors
+* Analyzed files unfortunately doesn't include tech upgrades.
+* Units, buildings and objects may contain errornous widths and heights.
 
 ## Code
 
