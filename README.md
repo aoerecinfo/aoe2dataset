@@ -1,9 +1,12 @@
 # aoe2dataset
 
 ## What is this?
-This repo currently holds a dataset of 100 analyzed aoe2 matches.
+This repo currently holds a dataset of 100 analyzed Age Of Empires II: Definitive Edition matches.
 * New states are recorded approx every 20 in-game seconds.
 * The files are stored as .recinfo but should be seen as json files.
+
+### AOE Version
+Age Of Empires II: Definitive Edition (13.34 101.101.43210.0)
 
 ### Player data distribution
 ![PlayerData](datasetplayersummary.png?raw=true "Player data distribution")
