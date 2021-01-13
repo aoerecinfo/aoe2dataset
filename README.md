@@ -9,7 +9,7 @@ This repo currently holds a dataset of 100 analyzed Age Of Empires II: Definitiv
 Age Of Empires II: Definitive Edition (13.34 101.101.43210.0)
 
 ### Player data distribution
-![PlayerData](dataset/v1/1v1 Arabia top players/datasetplayersummary.png?raw=true "Player data distribution")
+![PlayerData](dataset/v1/1v1%20Arabia%20top%20players/datasetplayersummary.png?raw=true "Player data distribution")
 
 ## Why?
 To share replay analysis from aoe2 matches to enable new projects to be created.
