@@ -11,9 +11,6 @@ Age Of Empires II: Definitive Edition (13.34 101.101.43210.0)
 ### Player data distribution
 ![PlayerData](dataset/v1/1v1_arabia_top_players/datasetplayersummary.png?raw=true "Player data distribution")
 
-## Why?
-To share replay analysis from aoe2 matches to enable new projects to be created.
-
 ## Goal
 To create enough data that ML/DL applications will output interesting results.
 
