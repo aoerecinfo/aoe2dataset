@@ -14,7 +14,7 @@ Age Of Empires II: Definitive Edition (13.34 101.101.43210.0)
 ## Goal
 To create enough data that ML/DL applications will output interesting results.
 
-## Missing data / Known errors
+## Missing data & known errors
 * Analyzed files unfortunately doesn't include tech upgrades except the total amount.
 * Units, buildings and objects may contain errornous widths and heights.
 
